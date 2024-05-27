@@ -52,7 +52,7 @@ I am computer Engineering Student at DDU, Nadiad.
 <br/>
 </p >
 
-<details open align="center">
+<details  align="center">
   <summary>📈 More Stats</summary>
   <br>
  
